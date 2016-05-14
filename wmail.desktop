@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=wmail
+GenericName=wmail
+Comment=The missing desktop client for Gmail & Google Inbox
+Exec=wmail
+Icon=wmail.png
+Type=Application
+StartupNotify=true
+Categories=Network
